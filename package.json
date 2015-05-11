@@ -1,0 +1,26 @@
+{
+  "name": "tab-view-module",
+  "version": "1.0.0",
+  "description": "Helpful javascript tab-view class",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mkay581/tab-view.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": {
+    "name": "Mark Kennedy",
+    "url": "http://heyimmark.com"
+  },
+  "main": "src/tab-view.js",
+  "dependencies": {
+    "element-kit": "^0.6.0",
+    "module.js": "^1.0.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "build-tools": "^1.2.7",
+    "sinon": "^1.14.1"
+  }
+}
