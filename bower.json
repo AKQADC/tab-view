@@ -25,7 +25,7 @@
   "main": "src/tab-view.js",
   "dependencies": {
     "underscore": "~1.8.3",
-    "element-kit": "~0.6.0",
-    "module.js": "~1.0.5"
+    "element-kit": "~1.0.4",
+    "module.js": "~2.2.4"
   }
 }
